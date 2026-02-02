@@ -1,0 +1,7 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="Band" tvg-logo="https://images.seeklogo.com/logo-png/33/3/bandeirantes-band-logo-png_seeklogo-337869.png" group-title="Grupo",Band
+https://hqf6tcxuhk.singularcdn.net.br/live/019498af-1fdf-7df5-86bd-e4a6f588d6a7/s1/playlist_nova-a.m3u8?sjwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmlfc3ViIjoiLzAxOTQ5OGFmLTFmZGYtN2RmNS04NmJkLWU0YTZmNTg4ZDZhNy8iLCJ1aWQiOiJkNjRjYWY5OS1hZWIwLTQ3ZjYtODFjYi1hNzkxM2E1ZGM1M2QiLCJyYXUiOm51bGwsImJleSI6ZmFsc2UsImlpcCI6ZmFsc2UsIm5iZiI6MTc2OTk2NTI2MSwiaWF0IjoxNzY5OTY1MjYxLCJleHAiOjE4MDE1MDEyNjEsImp0aSI6ImQ2NGNhZjk5LWFlYjAtNDdmNi04MWNiLWE3OTEzYTVkYzUzZCIsImlzcyI6IlNwYWxsYSJ9.2b94aYuhFi7BA8Aa5cqHLN6Zgjvp1DrT_8JELtxHDdU&uid=d64caf99-aeb0-47f6-81cb-a7913a5dc53d&magica=sim
+#EXTINF:-1 tvg-id="SBT" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/4/41/Logotipo_do_SBT.svg" group-title="Grupo",SBT
+https://aovivo.maissbt.com/v1/manifest/215c0da80606fed29372070168106400a6ca7e1a/SSAI_TITAN_V3/ac63b34e-0615-4402-a359-892f205ccd70/5.m3u8
+#EXTINF:-1 tvg-id="Record TV" tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/record-tv-logo.png" group-title="Grupo",Record TV
+https://origin-05.nxplay.com.br/RECORD_HD_TK/tracks-v1a1/mono.ts.m3u8?token=roku-t0k3n-v3r1fy1ng
