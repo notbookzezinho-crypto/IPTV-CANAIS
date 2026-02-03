@@ -1,7 +1,21 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="Band" tvg-logo="https://images.seeklogo.com/logo-png/33/3/bandeirantes-band-logo-png_seeklogo-337869.png" group-title="Grupo",Band
+#EXTINF:-1 tvg-id="BAND" tvg-logo="https://images.seeklogo.com/logo-png/33/3/bandeirantes-band-logo-png_seeklogo-337869.png" group-title="Grupo",Band
 https://hqf6tcxuhk.singularcdn.net.br/live/019498af-1fdf-7df5-86bd-e4a6f588d6a7/s1/playlist_nova-a.m3u8?sjwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmlfc3ViIjoiLzAxOTQ5OGFmLTFmZGYtN2RmNS04NmJkLWU0YTZmNTg4ZDZhNy8iLCJ1aWQiOiJkNjRjYWY5OS1hZWIwLTQ3ZjYtODFjYi1hNzkxM2E1ZGM1M2QiLCJyYXUiOm51bGwsImJleSI6ZmFsc2UsImlpcCI6ZmFsc2UsIm5iZiI6MTc2OTk2NTI2MSwiaWF0IjoxNzY5OTY1MjYxLCJleHAiOjE4MDE1MDEyNjEsImp0aSI6ImQ2NGNhZjk5LWFlYjAtNDdmNi04MWNiLWE3OTEzYTVkYzUzZCIsImlzcyI6IlNwYWxsYSJ9.2b94aYuhFi7BA8Aa5cqHLN6Zgjvp1DrT_8JELtxHDdU&uid=d64caf99-aeb0-47f6-81cb-a7913a5dc53d&magica=sim
 #EXTINF:-1 tvg-id="SBT" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/4/41/Logotipo_do_SBT.svg" group-title="Grupo",SBT
 https://aovivo.maissbt.com/v1/manifest/215c0da80606fed29372070168106400a6ca7e1a/SSAI_TITAN_V3/ac63b34e-0615-4402-a359-892f205ccd70/5.m3u8
-#EXTINF:-1 tvg-id="Record TV" tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/record-tv-logo.png" group-title="Grupo",Record TV
-https://origin-05.nxplay.com.br/RECORD_HD_TK/tracks-v1a1/mono.ts.m3u8?token=roku-t0k3n-v3r1fy1ng
+#EXTINF:-1 tvg-id="GLOBO SP" tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/rede-globo-logo-0.png" group-title="Grupo",GLOBO SP
+https://live-tvg-pe-05.video.globo.com/j/eyJhbGciOiJSUzUxMiIsImtpZCI6IjEiLCJ0eXAiOiJKV1QifQ.eyJjb3VudHJ5X2NvZGUiOiJCUiIsImRvbWFpbiI6ImxpdmUtdHZnLXBlLTA1LnZpZGVvLmdsb2JvLmNvbSIsImV4cCI6MTc3MDEwODUxNSwiaWF0IjoxNzcwMDg2OTE1LCJpc3MiOiJwbGF5YmFjay1hcGktcHJvZC1nY3AiLCJvd25lciI6Ijc4MDNlNzE2LWY3ZTctNGNkMi05N2NiLTM2NjI2N2QxZDgxNyIsInBhdGgiOiIvbGl2ZS9mKGk9MikvZ2xvYm8tc2VyL3BsYXlsaXN0Lm0zdTgifQ.q4DBpqXotKZb7KgAvo89IxFnGmnbsUveXfwB9PQHS9mot8JIbOEDMUNDtoUpo2TsqBfVXQpzpCgst6plJ60_W9T5uzqE_wQa7xWPQsWEOgQykgBKcObh2lvpf1xTD8xLGqUxMWb_zZeMcd5KU346K18V2gwYjtF8zMoS0dzKZWdthF_syAOsbcEB_ybdNNn3gm_0QRIQFFJ1n0GwDKL1wybiNkZcIN-lK7s74YjjH3ML-4F3lKhweM75FEOPrh1BR-RAD0d0FLu8ISb7eVyXbCEzXHv1sBaxHiWGCj93EbZxSd_tcnmSELnVBJX9JmCWy7nghI6BwF27S78texTEkQ/live/f(i=2)/globo-ser/globo-ser-audio_1=96000-video=3442944.m3u8
+#EXTINF:-1 tvg-id="RECORD TV" tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/record-tv-logo.png" group-title="Grupo",RECORD TV
+https://origin-05.nxplay.com.br/RECORD_HD_TK/index.m3u8?token=roku-t0k3n-v3r1fy1ng
+#EXTINF:-1 tvg-id="SPORTV" tvg-logo="https://logodownload.org/wp-content/uploads/2017/07/sportv-logo-0.png" group-title="Grupo",SPORTV
+https://agropesca.live/live/sportv/index.m3u8
+#EXTINF:-1 tvg-id="ESPN 1" tvg-logo="https://logodownload.org/wp-content/uploads/2015/05/espn-brasil-logo.png" group-title="Grupo",ESPN 1
+https://outbound-proxy-us-east1-0-glob-usercontent-client-id-4490715748.gc4d1o1kmu0ujc9uulvt8sz4e2t84ck0z7uvrzkbe2stjvfds1fdrfwumcbno8s.foo/docs/rdc-espn/__index.m3u8?cc=y&sv=178&nu3zAQc9HC3GbwJq=1770088315-AZzx2LXX3vdNgnGett0jdZuYH6gEBvgj1gq1luZAHP0%3D
+#EXTINF:-1 tvg-id="MULTISHOW" tvg-logo="https://logodownload.org/wp-content/uploads/2017/03/multishow-logo.png" group-title="Grupo",MULTISHOW
+https://01.vipcanaisplay.site/f6suVAlmimltshwYI4xHG6r1kq608E9/index.m3u8
+#EXTINF:-1 tvg-id="GLOBOPLAY NOVELAS" tvg-logo="https://logodownload.org/wp-content/uploads/2019/12/globoplay-logo-0-1.png" group-title="Grupo",GLOBOPLAY NOVELAS
+https://image-storage-3005.imgcontent.xyz/live/globoplaynovelas/index.m3u8
+#EXTINF:-1 tvg-id="BBB26" tvg-logo="https://logodownload.org/wp-content/uploads/2018/04/bbb-logo-big-brother-brasil-logo.png" group-title="Grupo",BBB26
+https://image-storage-51.imgcontent.xyz/live/bbb26/index.m3u8
+#EXTINF:-1 tvg-id="GETV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/03/GE_TV.png" group-title="Grupo",GETV
+https://amg00716-globo-amg00716c1-tcl-br-9495.playouts.now.amagi.tv/1080p-cc/index.m3u8
